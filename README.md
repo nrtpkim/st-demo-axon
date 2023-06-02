@@ -1,5 +1,5 @@
 # st-semo-axon
-Procfile
-packages.txt
-runtime.txt
+Procfile # Heroku
+packages.txt 
+runtime.txt # Heroku
 setup.sh
